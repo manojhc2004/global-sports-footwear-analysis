@@ -195,18 +195,19 @@ This project enables stakeholders to:
 
 ---
 
-# 📁 Repository Structure
+## 📁 Repository Structure
 
+```
 Global-Footwear-Sales-Analysis/
 │
-├── 📊 Dashboard/
-│   └── final-project-3-dashboard.pbix        # Power BI dashboard file
+├── Dashboard/
+│   └── final-project-3-dashboard.pbix
 │
-├── 🐼 EDA/
-│   └── final-project-3-EDA.ipynb             # Python Pandas EDA notebook
+├── EDA/
+│   └── final-project-3-EDA.ipynb
 │
-├── 🖼️ images/
-│   ├── Power-bi-img/                         # Power BI dashboard images
+├── images/
+│   ├── Power-bi-img/
 │   │   ├── Home.png
 │   │   ├── Bivorite-Analysis.png
 │   │   ├── Categorical-Analysis.png
@@ -215,7 +216,7 @@ Global-Footwear-Sales-Analysis/
 │   │   ├── Month-Trend-Analysis.png
 │   │   └── Trend-Analysis.png
 │   │
-│   └── python-pandas-img/                    # Python Pandas EDA visualizations
+│   └── python-pandas-img/
 │       ├── models_per_brand.png
 │       ├── top_brand_women.png
 │       ├── top_brand_men.png
@@ -225,11 +226,18 @@ Global-Footwear-Sales-Analysis/
 │       ├── which_month_had_highest_revenue_from_each_year.png
 │       └── which_year_had_the_highest_order_count.png
 │
-├── 📄 Presentation.pdf                     # Project presentation
+├── Presentation.pdf
 │
-├── 📂 data/                                # Cleaned dataset
+├── data/
 │   └── footwear_sales.csv
 │
 └── README.md
+```
+
+## 👤 Author
+
+**Manoj H C**
+
+🔗 LinkedIn: https://www.linkedin.com/in/manoj-h-c-65b26a34a/
 
 
