@@ -78,7 +78,7 @@ The objective of this project is to:
   ![Which footwear brand has the highest unit sales](images/Python-Pandas-img/Which footwear brand has the highest unit sales.png)
 
 ### 🌍 Country Analysis
-![Which country had made highest Revenue](images/Python-Pandas-img/Which country had made highest Revenue.png)
+  ![Which country had made highest Revenue](images/Python-Pandas-img/Which country had made highest Revenue.png)
 
 ### 👟 Category Analysis
 - Basketball and Training categories drive the highest unit sales.
@@ -125,7 +125,7 @@ Includes:
 
 ## 📊 2️⃣ Bivariate Analysis
 
-![Bivariate Analysis](images/power-bi-img/Bivorite-Analysis.png)
+  ![Bivariate Analysis](images/Power-bi-img/Bivorite-Analysis.png)
 
 - Revenue by Brand
 - Units Sold by Brand
@@ -135,7 +135,7 @@ Includes:
 
 ## 🏷️ 3️⃣ Categorical Analysis
 
-![Categorical Analysis](images/power-bi-img/Categorical-Analysis.png)
+![Categorical Analysis](images/Power-bi-img/Categorical-Analysis.png)
 
 - Units Sold by Category
 - Revenue by Brand
@@ -148,11 +148,11 @@ Includes:
 
 ### Page 1
 
-![Country Region Analysis 1](images/power-bi-img/Country-Region-Analysis-pg1.png)
+![Country Region Analysis 1](images/Power-bi-img/Country-Region-Analysis-pg1.png)
 
 ### Page 2
 
-![Country Region Analysis 2](images/power-bi-img/Country-Region-Analysis-pg2.png)
+![Country Region Analysis 2](images/Power-bi-img/Country-Region-Analysis-pg2.png)
 
 Includes:
 - Units Sold by Size
@@ -166,11 +166,11 @@ Includes:
 
 ### 📆 Monthly Trend
 
-![Monthly Trend](images/Month-Trend-Analysis.png)
+![Monthly Trend](images/Power-bi-img/Month-Trend-Analysis.png)
 
 ### 📈 Yearly Trend
 
-![Yearly Trend](images/Trend-Analysis.png)
+![Yearly Trend](images/Power-bi-img/Trend-Analysis.png)
 
 - Revenue & Units Sold comparison
 - Seasonal patterns
