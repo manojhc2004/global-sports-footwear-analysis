@@ -28,6 +28,7 @@ The objective of this project is to:
 ---
 
 ## 📂 Project Workflow
+```
   Raw Dataset
   ↓
   Data Cleaning (Python - Pandas)
@@ -39,6 +40,7 @@ The objective of this project is to:
   Power BI Dashboard
   ↓
   Interactive Visual Reporting
+```
 
 
 ---
