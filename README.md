@@ -108,7 +108,7 @@ The objective of this project is to:
 
 ## 🏠 1️⃣ Home Dashboard
 
-![Home Dashboard](images/Home.png)
+  ![Home](images/power-bi-img/Home.png)
 
 **KPIs:**
 - Total Revenue: 1.52M USD  
@@ -125,7 +125,7 @@ Includes:
 
 ## 📊 2️⃣ Bivariate Analysis
 
-![Bivariate Analysis](images/Bivorite-Analysis.png)
+![Bivariate Analysis](images/power-bi-img/Bivorite-Analysis.png)
 
 - Revenue by Brand
 - Units Sold by Brand
@@ -135,7 +135,7 @@ Includes:
 
 ## 🏷️ 3️⃣ Categorical Analysis
 
-![Categorical Analysis](images/Categorical-Analysis.png)
+![Categorical Analysis](images/power-bi-img/Categorical-Analysis.png)
 
 - Units Sold by Category
 - Revenue by Brand
@@ -148,11 +148,11 @@ Includes:
 
 ### Page 1
 
-![Country Region Analysis 1](images/Country-Region-Analysis-pg1.png)
+![Country Region Analysis 1](images/power-bi-img/Country-Region-Analysis-pg1.png)
 
 ### Page 2
 
-![Country Region Analysis 2](images/Country-Region-Analysis-pg2.png)
+![Country Region Analysis 2](images/power-bi-img/Country-Region-Analysis-pg2.png)
 
 Includes:
 - Units Sold by Size
