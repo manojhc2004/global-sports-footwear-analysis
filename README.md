@@ -86,16 +86,19 @@ The objective of this project is to:
 
 ### 📅 Time Analysis
 - Revenue peaks observed between 2020–2023.
+
 ![Which year had the highest order count](images/python-pandas-img/which_year_had_the_highest_order_count.png.png)
+
+
 - Overall stable growth trend.
 
 ### 👥 Customer Demographics
 - Orders are evenly distributed among Men, Women, and Unisex.
 - Medium and Low income segments contribute significantly.
 
-- Which brand is most ordered by Males?
+#### Which brand is most ordered by Males?
 ![Which brand is most ordered by males](images/python-pandas-img/Which_brand_is_most_ordered_bymales.png)
-- Which brand is most ordered by Womens?
+#### Which brand is most ordered by Womens?
 ![Which brand is most ordered by Womens](images/python-pandas-img/Which_Brand_is_most_ordered_by_womens.png)
 - Average customer rating: **4.0**
 ### 💳 Payment Methods
