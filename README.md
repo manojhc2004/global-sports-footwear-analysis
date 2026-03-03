@@ -75,26 +75,26 @@ The objective of this project is to:
 
 ### 🏷️ Brand Analysis
 - Adidas, Nike, ASICS, and Reebok dominate revenue.
-  ![Brand](images/Python-Pandas-img/Which_footwear_brand_has_the_highest_unit_sales.png)
+  ![Which brand had the highest unit sales](images/python-pandas-img/which_footwear_brand_has_the_highest_unit_sales.png)
 
 ### 🌍 Country Analysis
 
 
 ### 👟 Category Analysis
 - Basketball and Training categories drive the highest unit sales.
-![Which category type generated the highest revenue](images/Python-Pandas-img/Which category type generated the highest revenue.png)
+![Which category type generated the highest revenue](images/python-pandas-img/Which_category_type_generated_the_highest_revenue.png)
 
 ### 📅 Time Analysis
 - Revenue peaks observed between 2020–2023.
-![Which year had the highest order count](images/Python-Pandas-img/Which year had the highest order count.png)
+![Which year had the highest order count](images/python-pandas-img/which_year_had_the_highest_order_count.png)
 - Overall stable growth trend.
 
 ### 👥 Customer Demographics
 - Orders are evenly distributed among Men, Women, and Unisex.
 - Medium and Low income segments contribute significantly.
 - Average customer rating: **4.0**
-![Which brand is most ordered by males](images/Python-Pandas-img/Which brand is most ordered by males.png)
-![Which brand is most ordered by Womens](images/Python-Pandas-img/Which brand is most ordered by Womens.png)
+![Which brand is most ordered by males](images/python-pandas-img/Which_brand_is_most_ordered_bymales.png)
+![Which brand is most ordered by Womens](images/python-pandas-img/Which_Brand_is_most_ordered_by_womens.png)
 
 ### 💳 Payment Methods
 - Card and Bank Transfer are the most preferred payment methods.
