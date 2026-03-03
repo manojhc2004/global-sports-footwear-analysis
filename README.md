@@ -108,7 +108,7 @@ The objective of this project is to:
 
 ## 🏠 1️⃣ Home Dashboard
 
-  ![Home](images/power-bi-img/Home.png)
+  ![Home Page](images/Power-bi-img/Home.png)
 
 **KPIs:**
 - Total Revenue: 1.52M USD  
