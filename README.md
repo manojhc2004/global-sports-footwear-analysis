@@ -75,7 +75,7 @@ The objective of this project is to:
 
 ### 🏷️ Brand Analysis
 - Adidas, Nike, ASICS, and Reebok dominate revenue.
-  ![Which brand had the highest unit sales](images/python-pandas-img/which_footwear_brand_has_the_highest_unit_sales.png)
+- ![Which brand had the highest unit sales](images/python-pandas-img/which_footwear_brand_has_the_highest_unit_sales.png.png)
 
 ### 🌍 Country Analysis
 
@@ -92,10 +92,10 @@ The objective of this project is to:
 ### 👥 Customer Demographics
 - Orders are evenly distributed among Men, Women, and Unisex.
 - Medium and Low income segments contribute significantly.
-- Average customer rating: **4.0**
+
 ![Which brand is most ordered by males](images/python-pandas-img/Which_brand_is_most_ordered_bymales.png)
 ![Which brand is most ordered by Womens](images/python-pandas-img/Which_Brand_is_most_ordered_by_womens.png)
-
+- Average customer rating: **4.0**
 ### 💳 Payment Methods
 - Card and Bank Transfer are the most preferred payment methods.
 - Cash usage is slightly lower than digital payments.
