@@ -196,5 +196,23 @@ This project enables stakeholders to:
 ---
 
 # 📁 Repository Structure
+Global-Footwear-Sales-Analysis/
+│
+├── Dashboard/final-project-3-dashboard.pbix               -- Power BI dashboard
+│
+├── EDA/final-project-3-EDA-ipynb                          -- EDA file (Pandas)
+│
+├── images/                                                         
+│   ├── Power-bi-img                                       -- Power BI dashboard images
+│   ├── Bivorite-Analysis.png                             
+│   ├── ...
+│   └── python-pandas-img/                                 -- Python-Pandas images
+│       ├── models_per_brand.png
+│       ├── top_brand_women.png
+│       ├── ...
+│
+├── Presentation.pdf.pdf                                   -- Presentation PDF
+├── data                                                   -- Cleanned data-set
+└── README.md
 
 
