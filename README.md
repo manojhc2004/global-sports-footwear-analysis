@@ -75,10 +75,10 @@ The objective of this project is to:
 
 ### 🏷️ Brand Analysis
 - Adidas, Nike, ASICS, and Reebok dominate revenue.
-  ![Which footwear brand has the highest unit sales](images/Python-Pandas-img/Which footwear brand has the highest unit sales.png)
+  ![Brand](images/Python-Pandas-img/Which footwear brand has the highest unit sales.png)
 
 ### 🌍 Country Analysis
-  ![Which country had made highest Revenue](images/Python-Pandas-img/Which country had made highest Revenue.png)
+  ![Which country had made highest Revenue](images/Python-Pandas-img/Which_country_had_made_highest_Revenue.png)
 
 ### 👟 Category Analysis
 - Basketball and Training categories drive the highest unit sales.
