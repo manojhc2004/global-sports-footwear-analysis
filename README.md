@@ -196,23 +196,40 @@ This project enables stakeholders to:
 ---
 
 # 📁 Repository Structure
+
 Global-Footwear-Sales-Analysis/
 │
-├── Dashboard/final-project-3-dashboard.pbix               -- Power BI dashboard
+├── 📊 Dashboard/
+│   └── final-project-3-dashboard.pbix        # Power BI dashboard file
 │
-├── EDA/final-project-3-EDA-ipynb                          -- EDA file (Pandas)
+├── 🐼 EDA/
+│   └── final-project-3-EDA.ipynb             # Python Pandas EDA notebook
 │
-├── images/                                                         
-│   ├── Power-bi-img                                       -- Power BI dashboard images
-│   ├── Bivorite-Analysis.png                             
-│   ├── ...
-│   └── python-pandas-img/                                 -- Python-Pandas images
+├── 🖼️ images/
+│   ├── Power-bi-img/                         # Power BI dashboard images
+│   │   ├── Home.png
+│   │   ├── Bivorite-Analysis.png
+│   │   ├── Categorical-Analysis.png
+│   │   ├── Country-Region-Analysis-pg1.png
+│   │   ├── Country-Region-Analysis-pg2.png
+│   │   ├── Month-Trend-Analysis.png
+│   │   └── Trend-Analysis.png
+│   │
+│   └── python-pandas-img/                    # Python Pandas EDA visualizations
 │       ├── models_per_brand.png
 │       ├── top_brand_women.png
-│       ├── ...
+│       ├── top_brand_men.png
+│       ├── which_category_type_generated_the_highest_revenue.png
+│       ├── which_country_had_made_highest_revenue.png
+│       ├── which_footwear_brand_has_the_highest_unit_sales.png
+│       ├── which_month_had_highest_revenue_from_each_year.png
+│       └── which_year_had_the_highest_order_count.png
 │
-├── Presentation.pdf.pdf                                   -- Presentation PDF
-├── data                                                   -- Cleanned data-set
+├── 📄 Presentation.pdf                     # Project presentation
+│
+├── 📂 data/                                # Cleaned dataset
+│   └── footwear_sales.csv
+│
 └── README.md
 
 
