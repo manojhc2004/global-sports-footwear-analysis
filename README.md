@@ -75,27 +75,32 @@ The objective of this project is to:
 
 ### 🏷️ Brand Analysis
 - Adidas, Nike, ASICS, and Reebok dominate revenue.
-  ![Brand](images/Python-Pandas-img/Which_footwear_brand_has_the_highest_unit_sales.png)
+- ![Which brand had the highest unit sales](images/python-pandas-img/which_footwear_brand_has_the_highest_unit_sales.png.png)
 
 ### 🌍 Country Analysis
 
 
 ### 👟 Category Analysis
 - Basketball and Training categories drive the highest unit sales.
-![Which category type generated the highest revenue](images/Python-Pandas-img/Which category type generated the highest revenue.png)
+![Which category type generated the highest revenue](images/python-pandas-img/Which_category_type_generated_the_highest_revenue.png.png)
 
 ### 📅 Time Analysis
 - Revenue peaks observed between 2020–2023.
-![Which year had the highest order count](images/Python-Pandas-img/Which year had the highest order count.png)
+
+![Which year had the highest order count](images/python-pandas-img/which_year_had_the_highest_order_count.png.png)
+
+
 - Overall stable growth trend.
 
 ### 👥 Customer Demographics
 - Orders are evenly distributed among Men, Women, and Unisex.
 - Medium and Low income segments contribute significantly.
-- Average customer rating: **4.0**
-![Which brand is most ordered by males](images/Python-Pandas-img/Which brand is most ordered by males.png)
-![Which brand is most ordered by Womens](images/Python-Pandas-img/Which brand is most ordered by Womens.png)
 
+#### Which brand is most ordered by Males?
+![Which brand is most ordered by males](images/python-pandas-img/Which_brand_is_most_ordered_bymales.png)
+#### Which brand is most ordered by Womens?
+![Which brand is most ordered by Womens](images/python-pandas-img/Which_Brand_is_most_ordered_by_womens.png)
+- Average customer rating: **4.0**
 ### 💳 Payment Methods
 - Card and Bank Transfer are the most preferred payment methods.
 - Cash usage is slightly lower than digital payments.
@@ -190,6 +195,49 @@ This project enables stakeholders to:
 
 ---
 
-# 📁 Repository Structure
+## 📁 Repository Structure
+
+```
+Global-Footwear-Sales-Analysis/
+│
+├── Dashboard/
+│   └── final-project-3-dashboard.pbix
+│
+├── EDA/
+│   └── final-project-3-EDA.ipynb
+│
+├── images/
+│   ├── Power-bi-img/
+│   │   ├── Home.png
+│   │   ├── Bivorite-Analysis.png
+│   │   ├── Categorical-Analysis.png
+│   │   ├── Country-Region-Analysis-pg1.png
+│   │   ├── Country-Region-Analysis-pg2.png
+│   │   ├── Month-Trend-Analysis.png
+│   │   └── Trend-Analysis.png
+│   │
+│   └── python-pandas-img/
+│       ├── models_per_brand.png
+│       ├── top_brand_women.png
+│       ├── top_brand_men.png
+│       ├── which_category_type_generated_the_highest_revenue.png
+│       ├── which_country_had_made_highest_revenue.png
+│       ├── which_footwear_brand_has_the_highest_unit_sales.png
+│       ├── which_month_had_highest_revenue_from_each_year.png
+│       └── which_year_had_the_highest_order_count.png
+│
+├── Presentation.pdf
+│
+├── data/
+│   └── footwear_sales.csv
+│
+└── README.md
+```
+
+## 👤 Author
+
+**Manoj H C**
+
+🔗 LinkedIn: https://www.linkedin.com/in/manoj-h-c-65b26a34a/
 
 
