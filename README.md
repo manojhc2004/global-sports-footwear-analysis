@@ -82,19 +82,19 @@ The objective of this project is to:
 
 ### 👟 Category Analysis
 - Basketball and Training categories drive the highest unit sales.
-![Which category type generated the highest revenue](images/python-pandas-img/Which_category_type_generated_the_highest_revenue.png)
+![Which category type generated the highest revenue](images/python-pandas-img/Which_category_type_generated_the_highest_revenue.png.png)
 
 ### 📅 Time Analysis
 - Revenue peaks observed between 2020–2023.
-![Which year had the highest order count](images/python-pandas-img/which_year_had_the_highest_order_count.png)
+![Which year had the highest order count](images/python-pandas-img/which_year_had_the_highest_order_count.png.png)
 - Overall stable growth trend.
 
 ### 👥 Customer Demographics
 - Orders are evenly distributed among Men, Women, and Unisex.
 - Medium and Low income segments contribute significantly.
 
-![Which brand is most ordered by males](images/python-pandas-img/Which_brand_is_most_ordered_bymales.png)
-![Which brand is most ordered by Womens](images/python-pandas-img/Which_Brand_is_most_ordered_by_womens.png)
+![Which brand is most ordered by males](images/python-pandas-img/Which_brand_is_most_ordered_bymales.png.png)
+![Which brand is most ordered by Womens](images/python-pandas-img/Which_Brand_is_most_ordered_by_womens.png.png)
 - Average customer rating: **4.0**
 ### 💳 Payment Methods
 - Card and Bank Transfer are the most preferred payment methods.
